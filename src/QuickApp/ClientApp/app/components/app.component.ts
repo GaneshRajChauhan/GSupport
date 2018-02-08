@@ -38,7 +38,7 @@ export class AppComponent implements OnInit, AfterViewInit {
     shouldShowLoginModal: boolean;
     removePrebootScreen: boolean;
     newNotificationCount = 0;
-    appTitle = "Quick Application";
+    appTitle = "GSupport";
     appLogo = require("../assets/images/logo.png");
 
     stickyToasties: number[] = [];
